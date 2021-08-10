@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "payload-and-boxes", "payload-and-boxes\payload-and-boxes.csproj", "{716918C2-566D-49F5-B7B6-42D7BA1B1E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{716918C2-566D-49F5-B7B6-42D7BA1B1E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716918C2-566D-49F5-B7B6-42D7BA1B1E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716918C2-566D-49F5-B7B6-42D7BA1B1E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716918C2-566D-49F5-B7B6-42D7BA1B1E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A179027C-7EE5-4F17-967E-089A2CA80E98}
+	EndGlobalSection
+EndGlobal
